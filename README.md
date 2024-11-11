@@ -42,3 +42,14 @@ The goal of this Power BI project is to design two distinct dashboards: one dedi
   -Top 5 Movies by Total Reviews (Bar Chart): Showcase the highest-reviewed movies based on the total number of reviews, offering insights into customer preferences and engagement.
 
 - Dashboard Interaction <a href="https://github.com/Surya-Akhil/Power-Bi---Data-Analysis/blob/main/Amazon%20Sales%20Dashboard.pbix">View Dashboard</a>
+
+## Key Challenges:
+ -Data Integration: Aggregating and integrating data from various sources, such as Amazon sales reports and Amazon Prime data, while maintaining data consistency and quality.
+ 
+ -Data Accuracy: Ensuring that the data is accurate and up-to-date for meaningful analysis.
+ 
+ -Data Privacy: Safeguarding sensitive customer information and adhering to data privacy regulations when working with customer reviews.
+ 
+ -Visualization: Creating clear, informative, and interactive visualizations in Power BI to effectively convey insights to stakeholders.
+
+
